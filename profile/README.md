@@ -25,4 +25,4 @@ Website: [currenari.com](https://currenari.com) | Contact: [support@currenari.co
 
 Open-source hardware schematics, PCB layouts, and firmware are licensed under the MIT and CERN-OHL-S-2.0 open hardware standards.
 
-(C) 2026 Currenari Lab. All rights reserved.
+Copyright (C) 2026 Currenari Lab.
