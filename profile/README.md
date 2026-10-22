@@ -2,7 +2,7 @@
 
 > Open-source hardware engineering, embedded systems, and laboratory instrumentation.
 
-Website: [currenari.com](https://currenari.com) | Contact: [support@currenari.com](mailto:support@currenari.com)
+Website: [currenari.com](https://currenari.com)
 
 ---
 
